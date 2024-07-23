@@ -13,7 +13,7 @@ pyautogui.PAUSE = 0.3
 
 # abrir o navegador (chrome)
 pyautogui.press("win")
-pyautogui.write("winthor")
+pyautogui.write("crhome")
 pyautogui.press("enter")
 
 
